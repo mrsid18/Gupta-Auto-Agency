@@ -2,9 +2,8 @@
 
 ## Installation & updates
 1. Fork this repo, so you can make changes.
-2. Clone the forked repo using git clone command.
-`git clone`
-2.`composer update`
+2. Clone the forked repo using git clone command.`git clone`<br />
+3. `composer update` to install the dependencies
 
 ## Setup
 
