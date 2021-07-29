@@ -1,7 +1,9 @@
 # Gupta Auto Agency
 
 ## Installation & updates
-1. Clone this repo using git clone command.
+1. Fork this repo, so you can make changes.
+2. Clone the forked repo using git clone command.
+`git clone`
 2.`composer update`
 
 ## Setup
